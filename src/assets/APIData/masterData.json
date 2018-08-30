@@ -44,11 +44,12 @@
       },
       "Graph7" : {
         "name": "Overreporting",
-        "legends": ["Toilets -yet to start","Sub-structure built","Almost ready"],
+        "legends": ["Toilets -yet to start","Sub-structure built","Almost ready","xyz"],
         "data": [
           { "name": "Toilets -yet to start", "value":13},
           { "name": "Sub-structure built", "value":23},
-          { "name": "Almost ready", "value":12}
+          { "name": "Almost ready", "value":12},
+          { "name": "xyz", "value":10}
         ]
       },
       "Graph8" : {
