@@ -5,8 +5,8 @@ import { EventEmitter, Injectable } from '@angular/core';
 export class APIService {
 
   projectURL: string = '../assets/APIData/';
-  fileUploadURL: string = 'http://192.168.15.187:8080/';
-  afterFileUploadURL: string = 'http://192.168.15.187:8080/';
+  fileUploadURL: string = 'http://13.232.142.21:8080/';
+  afterFileUploadURL: string = 'http://13.232.142.21:8080/';
   // projectURL: string = 'http://192.168.15.187:8000';
   // projectURL: string = 'https://qcitech.org:8081';
 
@@ -49,7 +49,7 @@ export class APIService {
   }
 
   AfterFileUploadUrl() {
-    return this.http.get(this.fileUploadURL+'savealldata');
+    return this.http.get(this.fileUploadURL+'savealldata').map(res => res.json());
   }
 
   GetGraph1() {
