@@ -76,12 +76,12 @@ export class Section1Component implements OnInit, OnDestroy {
                   // console.log(obj)
                   var value = obj.value;
                   return  "District" + '：' + obj.data.name + '<br>'
-                      +"Total Villages" + '：' + obj.data.extra+ '<br>'
-                      +"Villages Covered" + '：' + obj.data.extra+ '<br>'
-                      +"Access" + '：' + obj.data.extra+ '<br>'
-                      +"Usage" + '：' + obj.data.extra+ '<br>'
-                      +"Over Reporting" + '：' + obj.data.extra+ '<br>'
-                      +"Qlty. under con. Toilet" + '：' + obj.data.extra+ '<br>'
+                      +"Total Villages" + '：' + obj.data.villages+ '<br>'
+                      +"Villages Covered" + '：' + obj.data.covered+ '<br>'
+                      +"Access" + '：' + obj.data.access+ '<br>'
+                      +"Usage" + '：' + obj.data.usage+ '<br>'
+                      +"Over Reporting" + '：' + obj.data.reporting+ '<br>'
+                      +"Qlty. under con. Toilet" + '：' + obj.data.quality+ '<br>'
                 }
               },
               toolbox: {
