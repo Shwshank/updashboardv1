@@ -115,6 +115,8 @@ export class ProjectService {
 
     let temp = this.masterData[pos];                    // Get data from index of array as per ID
 
+    console.log(temp);
+
     this.emitSection2Graph1.emit(temp.Graph1);
     this.emitSection2Graph2.emit(temp.Graph2);
     this.emitSection2Graph3.emit(temp.Graph3);
@@ -274,7 +276,7 @@ export class ProjectService {
     }
 
   }
-  // 
+  //
   // afterFileUpload(data) {
   //   this.APIService.AfterFileUploadUrl(data).subscribe((res)=>{
   //     console.log(res);
