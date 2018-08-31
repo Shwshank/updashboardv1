@@ -5,8 +5,7 @@ import { EventEmitter, Injectable } from '@angular/core';
 export class APIService {
 
   projectURL: string = '../assets/APIData/';
-  fileUploadURL: string = 'https://swachh-up.qcitech.org:8080/';
-  afterFileUploadURL: string = 'https://swachh-up.qcitech.org:8080/';
+  fileUploadURL: string = 'https://swachh-up.qcitech.org:3000/';
   // projectURL: string = 'http://192.168.15.187:8000';
   // projectURL: string = 'https://qcitech.org:8081';
 

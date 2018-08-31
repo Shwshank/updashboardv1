@@ -24,6 +24,10 @@ export class UploadComponent implements OnInit {
   ngOnInit() {
   }
 
+  logout() {
+    this.projectService.logout();
+  }
+
   updateFile($event,area) {
 
     console.log(area);

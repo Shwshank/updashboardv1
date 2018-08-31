@@ -14,8 +14,16 @@
   </div>
   <div class="col-sm-4 text-right">
     <div class="d-inline float-right"><!--pos-rel pos-left-->
-      <img src="../assets/pic/qci.png" width="65" height="70" class="d-inline-block align-top" alt="" />
+
+      <img src="../assets/pic/qci.png" width="55" height="60" class="d-inline-block align-top" alt=""  style="float:left"/>
+      <br>
+       <span style="color:gray; cursor: pointer;" (click)="logout()">
+         Logout
+         <i class="fas fa-sign-out-alt" style="cursor: pointer;"></i>
+       </span>
+
     </div>
+
   </div>
   <!-- <input type="date"  (change)="getVal()"  [(ngModel)]='value' min={{json.rangeFrom}} max={{json.rangeTo}}
     style="border:2px solid gray; border-radius:10px"> -->
@@ -37,7 +45,7 @@
   data-aos="zoom-in"  data-aos-delay="250" >
     <app-section4></app-section4>
   </div>
-  <div class="section6 bg-white ml-2 mr-2 " 
+  <div class="section6 bg-white ml-2 mr-2 "
   data-aos="zoom-in"  data-aos-delay="250" >
     <br />
     <app-section6></app-section6>

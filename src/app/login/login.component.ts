@@ -19,6 +19,7 @@ export class LoginComponent implements OnInit {
     this.projectService.emitUserLogin.subscribe((res)=>{
       this.router.navigate(['/']);
     });
+
   }
 
   ngOnInit() {

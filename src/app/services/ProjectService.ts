@@ -32,6 +32,7 @@ export class ProjectService {
   emitFileSuccess = new EventEmitter<any>();
   emitMapColor = new EventEmitter<any>();
   emitBarColors = new EventEmitter<any>();
+  emitUserUpload = new EventEmitter<any>();
   emitSection7Graph1 = new EventEmitter<any>();
   emitDontShowSection6 = new EventEmitter<any>();
   emitDontShowSection7 = new EventEmitter<any>();
@@ -43,11 +44,16 @@ export class ProjectService {
   // }
 
   logout(){
+    localStorage.removeItem("token");
     this.router.navigate(['./login']);
   }
 
   checkLogin() {
+    let temp = localStorage.getItem("token");
 
+    if(temp === "true") {
+      this.router.navigate(['./home']);
+    }
   }
 
   login(email1, pwd1) {
@@ -60,6 +66,11 @@ export class ProjectService {
     if(email==="test@qcin.org" && pwd === "123") {
       localStorage.setItem('token','true');
       this.router.navigate(['./']);
+    }
+
+    if(email==="upload@qcin.org" && pwd === "123") {
+      localStorage.setItem('token','true');
+      this.router.navigate(['./upload']);
     }
 
   }

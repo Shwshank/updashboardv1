@@ -31,8 +31,12 @@ export class HomeComponent implements OnInit {
     let temp = localStorage.getItem('token');
     if( temp === "true" ){
     } else {
-      // this.projectService.logout();
+      this.projectService.logout();
     }
+  }
+
+  logout() {
+    this.projectService.logout();
   }
 
   // upArrow(){
