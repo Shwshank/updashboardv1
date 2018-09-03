@@ -1,16 +1,40 @@
 {
     "data": [
         {
-            "access": 28, 
-            "reporting": 77, 
-            "name": "Lucknow", 
-            "extra": 1080, 
-            "usage": 28, 
-            "covered": 1, 
-            "villages": 14, 
-            "quality": 70, 
-            "id": 5, 
-            "value": 29
+            "access": "23%",
+            "reporting": "69%",
+            "name": "Kaushambi",
+            "extra": 100,
+            "usage": "84%",
+            "covered": 2,
+            "villages": 31,
+            "quality": "44%",
+            "id": 5,
+            "value": 6.45
+        },
+        {
+            "access": "18%",
+            "reporting": "98%",
+            "name": "Pratapgarh",
+            "extra": 100,
+            "usage": "89%",
+            "covered": 2,
+            "villages": 30,
+            "quality": "27%",
+            "id": 6,
+            "value": 6.67
+        },
+        {
+            "access": "36%",
+            "reporting": "53%",
+            "name": "Gonda",
+            "extra": 100,
+            "usage": "80%",
+            "covered": 1,
+            "villages": 17,
+            "quality": "47%",
+            "id": 7,
+            "value": 5.88
         }
     ]
 }

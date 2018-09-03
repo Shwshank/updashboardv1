@@ -4,40 +4,93 @@
             "treeData": {
                 "children": [
                     {
-                        "id": 1, 
-                        "collapsed": "true", 
+                        "id": 1,
+                        "collapsed": "true",
                         "children": [
                             {
-                                "id": 5, 
+                                "id": 6,
                                 "children": [
                                     {
-                                        "name": "MALIHABAD", 
+                                        "name": "MANDHATA",
                                         "id": 81
                                     }
-                                ], 
-                                "name": "LUCKNOW"
+                                ],
+                                "name": "PRATAPGARH"
+                            },
+                            {
+                                "id": 5,
+                                "children": [
+                                    {
+                                        "name": "SIRATHU",
+                                        "id": 83
+                                    }
+                                ],
+                                "name": "KAUSHAMBI"
                             }
-                        ], 
-                        "name": "Lucknow"
+                        ],
+                        "name": "SOUTH"
+                    },
+                    {
+                        "id": 2,
+                        "collapsed": "true",
+                        "children": [
+                            {
+                                "id": 7,
+                                "children": [
+                                    {
+                                        "name": "MUJEHANA",
+                                        "id": 82
+                                    }
+                                ],
+                                "name": "GONDA"
+                            }
+                        ],
+                        "name": "WEST"
                     }
-                ], 
-                "name": "UP", 
+                ],
+                "name": "UP",
                 "id": 0
-            }, 
+            },
             "id": 0
-        }, 
+        },
         {
             "treeData": {
-                "id": 5, 
+                "id": 6,
                 "children": [
                     {
-                        "name": "MALIHABAD", 
+                        "name": "MANDHATA",
                         "id": 81
                     }
-                ], 
-                "name": "LUCKNOW"
-            }, 
+                ],
+                "name": "PRATAPGARH"
+            },
+            "id": 6
+        },
+        {
+            "treeData": {
+                "id": 5,
+                "children": [
+                    {
+                        "name": "SIRATHU",
+                        "id": 83
+                    }
+                ],
+                "name": "KAUSHAMBI"
+            },
             "id": 5
+        },
+        {
+            "treeData": {
+                "id": 7,
+                "children": [
+                    {
+                        "name": "MUJEHANA",
+                        "id": 82
+                    }
+                ],
+                "name": "GONDA"
+            },
+            "id": 7
         }
     ]
 }

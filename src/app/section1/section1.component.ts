@@ -67,7 +67,7 @@ export class Section1Component implements OnInit, OnDestroy {
               title: {
                 text: 'Map of UP',
                 subtext: 'State Overview',
-                sublink: 'https://updashboardv1.firebaseapp.com/#/'
+                sublink: 'https://swachh-up.qcitech.org'
               },
               tooltip: {
                 trigger: 'item',

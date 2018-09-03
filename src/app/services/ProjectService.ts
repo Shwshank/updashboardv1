@@ -10,6 +10,7 @@ export class ProjectService {
 
   id = 0;
   masterData : any = [];
+  treeData: any = [];
   emitId = new EventEmitter<any>();
   emitMap = new EventEmitter<any>();
   emitTree = new EventEmitter<any>();
@@ -107,6 +108,7 @@ export class ProjectService {
   getIdFromMap(id){
     this.id = id;
     this.getDatafromMaster(id);
+    this.getDatafromTree(id);
   }
 
   getDatafromMaster(id) {
@@ -166,7 +168,20 @@ export class ProjectService {
 
   }
 
-  getDatafromServer(id) {
+  getDatafromTree(id) {
+
+    let pos: any;
+    for(let i =0; i<this.treeData.length; i++) {
+
+      if(id === this.treeData[i].id) {
+        pos = i;
+        break;
+      }
+    }
+
+    let temp = this.treeData[pos];                    // Get data from index of array as per ID
+
+    this.emitTree.emit({tree:temp.treeData});
 
   }
 
@@ -209,16 +224,7 @@ export class ProjectService {
       if (res) {
 
         temp = res.data;
-
-        for(let i = 0; i<temp.length; i++) {
-
-          if(temp[i].id==id) {
-            console.log(id);
-            pos = id;
-            break;
-          }
-
-        }
+        this.treeData = res.data;
 
         this.emitTree.emit({ tree: temp[pos].treeData });
       } else {

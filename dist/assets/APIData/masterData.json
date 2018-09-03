@@ -5,39 +5,39 @@
                 "data": [
                     {
                         "name": "Yes",
-                        "value": 28
+                        "value": 23
                     },
                     {
                         "name": "No",
-                        "value": 72
+                        "value": 77
                     }
                 ],
                 "name": "IHHL Coverage",
-                "block": "MALIHABAD",
+                "block": "SIRATHU",
                 "legends": [
                     "Yes",
                     "No"
                 ]
             },
             "Graph2": {
-                "data": 0.06,
+                "data": 0.32,
                 "name": "Villages Covered",
-                "block": "MALIHABAD",
+                "block": "SIRATHU",
                 "legends": ""
             },
             "Graph3": {
                 "data": [
                     {
                         "name": "Yes",
-                        "value": 28
+                        "value": 85
                     },
                     {
                         "name": "No",
-                        "value": 72
+                        "value": 15
                     }
                 ],
                 "name": "Overall Toilet Usage",
-                "block": "MALIHABAD",
+                "block": "SIRATHU",
                 "legends": [
                     "Yes",
                     "No"
@@ -47,15 +47,15 @@
                 "data": [
                     {
                         "name": "Safe Disposal",
-                        "value": 71
+                        "value": 97
                     },
                     {
                         "name": "Unsafe Disposal",
-                        "value": 29
+                        "value": 3
                     }
                 ],
                 "name": "Type of Disposal",
-                "block": "MALIHABAD",
+                "block": "SIRATHU",
                 "legends": [
                     "Safe Disposal",
                     "Unsafe Disposal"
@@ -65,15 +65,15 @@
                 "data": [
                     {
                         "name": "Yes",
-                        "value": 0
+                        "value": 40
                     },
                     {
                         "name": "No",
-                        "value": 100
+                        "value": 60
                     }
                 ],
                 "name": "Incidences of open defecation",
-                "block": "MALIHABAD",
+                "block": "SIRATHU",
                 "legends": [
                     "Yes",
                     "No"
@@ -83,15 +83,15 @@
                 "data": [
                     {
                         "name": "Yes",
-                        "value": 90
+                        "value": 18
                     },
                     {
                         "name": "No",
-                        "value": 10
+                        "value": 82
                     }
                 ],
                 "name": "Availability of Water",
-                "block": "MALIHABAD",
+                "block": "SIRATHU",
                 "legends": [
                     "Yes",
                     "No"
@@ -101,60 +101,59 @@
                 "data": [
                     {
                         "name": "Fully Functional/Ready",
-                        "value": 23
+                        "value": 22
                     },
                     {
                         "name": "Sub-structure Built",
-                        "value": 0
+                        "value": 11
                     },
-		    {
-                        "name": "Almost Ready/Super Structure Built",
-                        "value": 30
-                    },
-
                     {
                         "name": "Yet to be Constructed",
-                        "value": 47
+                        "value": 64
+                    },
+                    {
+                        "name": "Almost Ready/Super Structure Built",
+                        "value": 3
                     }
                 ],
                 "name": "Over-reporting of SBM Toilets",
-                "block": "MALIHABAD",
+                "block": "SIRATHU",
                 "legends": [
                     "Fully Functional/Ready",
+                    "Yet to be Constructed",
                     "Sub-structure Built",
-	            "Almost Ready/Super Structure Built",
-                    "Yet to be Constructed"
+                    "Almost Ready/Super Structure Built"
                 ]
             },
             "Graph8": {
                 "data": [
                     {
                         "name": "Pan Integrity",
-                        "value": 60
+                        "value": 50
                     },
                     {
                         "name": "Junction Chamber",
-                        "value": 45
+                        "value": 14
                     },
                     {
                         "name": "Disposal Structure",
-                        "value": 60
+                        "value": 38
                     },
                     {
                         "name": "Toilet Super Structure",
-                        "value": 57
+                        "value": 48
                     },
                     {
                         "name": "Water Storage",
-                        "value": 30
+                        "value": 10
                     },
                     {
                         "name": "Cleanliness and Hygiene",
-                        "value": 71
+                        "value": 73
                     }
                 ],
                 "name": "Quality of SBM Toilets",
-                "block": "MALIHABAD",
+                "block": "SIRATHU",
                 "legends": [
                     "Pan Integrity",
                     "Junction Chamber",
@@ -165,7 +164,7 @@
                 ]
             },
             "Graph9": {
-                "block": "MALIHABAD"
+                "block": "SIRATHU"
             },
             "Graph10": {
                 "data": [
@@ -179,7 +178,7 @@
                     }
                 ],
                 "name": "Availablity of Community/Public Toilet",
-                "block": "MALIHABAD",
+                "block": "SIRATHU",
                 "legends": [
                     "Yes",
                     "No"
@@ -193,11 +192,11 @@
                     },
                     {
                         "name": "No",
-                        "value": 100
+                        "value": 0
                     }
                 ],
                 "name": "Functionality of Community/Public Toilet",
-                "block": "MALIHABAD",
+                "block": "SIRATHU",
                 "legends": [
                     "Yes",
                     "No"
@@ -207,15 +206,15 @@
                 "data": [
                     {
                         "name": "Yes",
-                        "value": 28
+                        "value": 0
                     },
                     {
                         "name": "No",
-                        "value": 72
+                        "value": 0
                     }
                 ],
                 "name": "IHHL Coverage",
-                "block": "MALIHABAD",
+                "block": "SIRATHU",
                 "legends": [
                     "Yes",
                     "No"
@@ -223,10 +222,10 @@
             },
             "Graph13": {
                 "data3_count": 0,
-                "data6_count": 1,
-                "data1_count": 520,
-                "data7_count": 1,
-                "data4_count": 1,
+                "data6_count": 0,
+                "data1_count": 0,
+                "data7_count": 0,
+                "data4_count": 0,
                 "data3": "Villages with Incidences of open defecation",
                 "data5_count": 0,
                 "data5": "Access to Toilet in Schools",
@@ -234,1216 +233,195 @@
                 "data7": "Access to Toilet in Anganwadi",
                 "data6": "Anganwadi covered",
                 "data1": "Target Villages",
-                "data2_count": 1,
-                "block": "MALIHABAD",
+                "data2_count": 0,
+                "block": "SIRATHU",
                 "data2": "Villages Covered"
             },
-
+            "Graph14": {
+                "data": [
+                    {
+                        "name": "Yes",
+                        "value": 0
+                    },
+                    {
+                        "name": "No",
+                        "value": 0
+                    }
+                ],
+                "name": "Overall Toilet Usage",
+                "block": "SIRATHU",
+                "legends": [
+                    "Yes",
+                    "No"
+                ]
+            },
             "Graph15": {
                 "headers": [],
                 "rowData": [],
-                "block": "MALIHABAD"
+                "block": "SIRATHU"
             },
+            "ODFVillages": 0,
+            "Villages": 0,
             "id": 0
         },
+        {},
+        {},
+        {},
+        {},
         {
             "Graph1": {
                 "data": [
                     {
                         "name": "Yes",
-                        "value": 28
-                    },
-                    {
-                        "name": "No",
-                        "value": 72
-                    }
-                ],
-                "name": "IHHL Coverage",
-                "block": "MALIHABAD",
-                "legends": [
-                    "Yes",
-                    "No"
-                ]
-            },
-            "Graph2": {
-                "data": 0.06,
-                "name": "Villages Covered",
-                "block": "MALIHABAD",
-                "legends": ""
-            },
-            "Graph3": {
-                "data": [
-                    {
-                        "name": "Yes",
-                        "value": 28
-                    },
-                    {
-                        "name": "No",
-                        "value": 72
-                    }
-                ],
-                "name": "Overall Toilet Usage",
-                "block": "MALIHABAD",
-                "legends": [
-                    "Yes",
-                    "No"
-                ]
-            },
-            "Graph4": {
-                "data": [
-                    {
-                        "name": "Safe Disposal",
-                        "value": 71
-                    },
-                    {
-                        "name": "Unsafe Disposal",
-                        "value": 29
-                    }
-                ],
-                "name": "Type of Disposal",
-                "block": "MALIHABAD",
-                "legends": [
-                    "Safe Disposal",
-                    "Unsafe Disposal"
-                ]
-            },
-            "Graph5": {
-                "data": [
-                    {
-                        "name": "Yes",
-                        "value": 0
-                    },
-                    {
-                        "name": "No",
-                        "value": 100
-                    }
-                ],
-                "name": "Incidences of open defecation",
-                "block": "MALIHABAD",
-                "legends": [
-                    "Yes",
-                    "No"
-                ]
-            },
-            "Graph6": {
-                "data": [
-                    {
-                        "name": "Yes",
-                        "value": 90
-                    },
-                    {
-                        "name": "No",
-                        "value": 10
-                    }
-                ],
-                "name": "Availability of Water",
-                "block": "MALIHABAD",
-                "legends": [
-                    "Yes",
-                    "No"
-                ]
-            },
-            "Graph7": {
-                "data": [
-                    {
-                        "name": "Fully Functional/Ready",
-                        "value": 23
-                    },
-                    {
-                        "name": "Almost ready/Super Structure Built",
-                        "value": 30
-                    },
-                    {
-                        "name": "Sub-structure built",
-                        "value": 0
-                    },
-                    {
-                        "name": "Yet to be constructed",
-                        "value": 47
-                    }
-                ],
-                "name": "Over-reporting of SBM Toilets",
-                "block": "MALIHABAD",
-                "legends": [
-                    "Fully Functional/Ready",
-                    "Almost Ready/Super Structure Built",
-                    "Sub-structure Built",
-                    "Yet to be Constructed"
-                ]
-            },
-            "Graph8": {
-                "data": [
-                    {
-                        "name": "Pan Integrity",
-                        "value": 60
-                    },
-                    {
-                        "name": "Junction Chamber",
-                        "value": 45
-                    },
-                    {
-                        "name": "Disposal Structure",
-                        "value": 60
-                    },
-                    {
-                        "name": "Toilet Super Structure",
-                        "value": 57
-                    },
-                    {
-                        "name": "Water Storage",
-                        "value": 30
-                    },
-                    {
-                        "name": "Cleanliness and Hygiene",
-                        "value": 71
-                    }
-                ],
-                "name": "Quality of SBM Toilets",
-                "block": "MALIHABAD",
-                "legends": [
-                    "Pan Integrity",
-                    "Junction Chamber",
-                    "Disposal Structure",
-                    "Toilet Super Structure",
-                    "Water Storage",
-                    "Cleanliness and Hygiene"
-                ]
-            },
-            "Graph9": {
-                "block": "MALIHABAD"
-            },
-            "Graph10": {
-                "data": [
-                    {
-                        "name": "Yes",
-                        "value": 0
-                    },
-                    {
-                        "name": "No",
-                        "value": 100
-                    }
-                ],
-                "name": "Availablity of Community/Public Toilet",
-                "block": "MALIHABAD",
-                "legends": [
-                    "Yes",
-                    "No"
-                ]
-            },
-            "Graph11": {
-                "data": [
-                    {
-                        "name": "Yes",
-                        "value": 0
-                    },
-                    {
-                        "name": "No",
-                        "value": 100
-                    }
-                ],
-                "name": "Functionality of Community/Public Toilet",
-                "block": "MALIHABAD",
-                "legends": [
-                    "Yes",
-                    "No"
-                ]
-            },
-            "Graph12": {
-                "data": [
-                    {
-                        "name": "Yes",
-                        "value": 28
-                    },
-                    {
-                        "name": "No",
-                        "value": 72
-                    }
-                ],
-                "name": "IHHL Coverage",
-                "block": "MALIHABAD",
-                "legends": [
-                    "Yes",
-                    "No"
-                ]
-            },
-            "Graph13": {
-                "data3_count": 0,
-                "data6_count": 1,
-                "data1_count": 520,
-                "data7_count": 1,
-                "data4_count": 1,
-                "data3": "Villages with Incidences of open defecation",
-                "data5_count": 0,
-                "data5": "Access to Toilet in Schools",
-                "data4": "Schools Covered",
-                "data7": "Access to Toilet in Anganwadi",
-                "data6": "Anganwadi covered",
-                "data1": "Target Villages",
-                "data2_count": 1,
-                "block": "MALIHABAD",
-                "data2": "Villages Covered"
-            },
-            "Graph14": {
-                "data": [
-                    {
-                        "name": "Yes",
-                        "value": 72
-                    },
-                    {
-                        "name": "No",
-                        "value": 28
-                    }
-                ],
-                "name": "Overall Toilet Usage",
-                "legends": [
-                    "Yes",
-                    "No"
-                ]
-            },
-            "Graph15": {
-                "headers": [],
-                "rowData": [],
-                "block": "MALIHABAD"
-            },
-            "id": 1
-        },
-        {
-            "Graph1": {
-                "data": [
-                    {
-                        "name": "Yes",
-                        "value": 28
-                    },
-                    {
-                        "name": "No",
-                        "value": 72
-                    }
-                ],
-                "name": "IHHL Coverage",
-                "block": "MALIHABAD",
-                "legends": [
-                    "Yes",
-                    "No"
-                ]
-            },
-            "Graph2": {
-                "data": 0.06,
-                "name": "Villages Covered",
-                "block": "MALIHABAD",
-                "legends": ""
-            },
-            "Graph3": {
-                "data": [
-                    {
-                        "name": "Yes",
-                        "value": 28
-                    },
-                    {
-                        "name": "No",
-                        "value": 72
-                    }
-                ],
-                "name": "Overall Toilet Usage",
-                "block": "MALIHABAD",
-                "legends": [
-                    "Yes",
-                    "No"
-                ]
-            },
-            "Graph4": {
-                "data": [
-                    {
-                        "name": "Safe Disposal",
-                        "value": 71
-                    },
-                    {
-                        "name": "Unsafe Disposal",
-                        "value": 29
-                    }
-                ],
-                "name": "Type of Disposal",
-                "block": "MALIHABAD",
-                "legends": [
-                    "Safe Disposal",
-                    "Unsafe Disposal"
-                ]
-            },
-            "Graph5": {
-                "data": [
-                    {
-                        "name": "Yes",
-                        "value": 0
-                    },
-                    {
-                        "name": "No",
-                        "value": 100
-                    }
-                ],
-                "name": "Incidences of open defecation",
-                "block": "MALIHABAD",
-                "legends": [
-                    "Yes",
-                    "No"
-                ]
-            },
-            "Graph6": {
-                "data": [
-                    {
-                        "name": "Yes",
-                        "value": 90
-                    },
-                    {
-                        "name": "No",
-                        "value": 10
-                    }
-                ],
-                "name": "Availability of Water",
-                "block": "MALIHABAD",
-                "legends": [
-                    "Yes",
-                    "No"
-                ]
-            },
-            "Graph7": {
-                "data": [
-                    {
-                        "name": "Fully Functional/Ready",
-                        "value": 23
-                    },
-                    {
-                        "name": "Almost ready/Super Structure Built",
-                        "value": 30
-                    },
-                    {
-                        "name": "Sub-structure built",
-                        "value": 0
-                    },
-                    {
-                        "name": "Yet to be constructed",
-                        "value": 47
-                    }
-                ],
-                "name": "Over-reporting of SBM Toilets",
-                "block": "MALIHABAD",
-                "legends": [
-                    "Fully Functional/Ready",
-                    "Almost Ready/Super Structure Built",
-                    "Sub-structure Built",
-                    "Yet to be Constructed"
-                ]
-            },
-            "Graph8": {
-                "data": [
-                    {
-                        "name": "Pan Integrity",
-                        "value": 60
-                    },
-                    {
-                        "name": "Junction Chamber",
-                        "value": 45
-                    },
-                    {
-                        "name": "Disposal Structure",
-                        "value": 60
-                    },
-                    {
-                        "name": "Toilet Super Structure",
-                        "value": 57
-                    },
-                    {
-                        "name": "Water Storage",
-                        "value": 30
-                    },
-                    {
-                        "name": "Cleanliness and Hygiene",
-                        "value": 71
-                    }
-                ],
-                "name": "Quality of SBM Toilets",
-                "block": "MALIHABAD",
-                "legends": [
-                    "Pan Integrity",
-                    "Junction Chamber",
-                    "Disposal Structure",
-                    "Toilet Super Structure",
-                    "Water Storage",
-                    "Cleanliness and Hygiene"
-                ]
-            },
-            "Graph9": {
-                "block": "MALIHABAD"
-            },
-            "Graph10": {
-                "data": [
-                    {
-                        "name": "Yes",
-                        "value": 0
-                    },
-                    {
-                        "name": "No",
-                        "value": 100
-                    }
-                ],
-                "name": "Availablity of Community/Public Toilet",
-                "block": "MALIHABAD",
-                "legends": [
-                    "Yes",
-                    "No"
-                ]
-            },
-            "Graph11": {
-                "data": [
-                    {
-                        "name": "Yes",
-                        "value": 0
-                    },
-                    {
-                        "name": "No",
-                        "value": 100
-                    }
-                ],
-                "name": "Functionality of Community/Public Toilet",
-                "block": "MALIHABAD",
-                "legends": [
-                    "Yes",
-                    "No"
-                ]
-            },
-            "Graph12": {
-                "data": [
-                    {
-                        "name": "Yes",
-                        "value": 28
-                    },
-                    {
-                        "name": "No",
-                        "value": 72
-                    }
-                ],
-                "name": "IHHL Coverage",
-                "block": "MALIHABAD",
-                "legends": [
-                    "Yes",
-                    "No"
-                ]
-            },
-            "Graph13": {
-                "data3_count": 0,
-                "data6_count": 1,
-                "data1_count": 520,
-                "data7_count": 1,
-                "data4_count": 1,
-                "data3": "Villages with Incidences of open defecation",
-                "data5_count": 0,
-                "data5": "Access to Toilet in Schools",
-                "data4": "Schools Covered",
-                "data7": "Access to Toilet in Anganwadi",
-                "data6": "Anganwadi covered",
-                "data1": "Target Villages",
-                "data2_count": 1,
-                "block": "MALIHABAD",
-                "data2": "Villages Covered"
-            },
-            "Graph14": {
-                "data": [
-                    {
-                        "name": "Yes",
-                        "value": 72
-                    },
-                    {
-                        "name": "No",
-                        "value": 28
-                    }
-                ],
-                "name": "Overall Toilet Usage",
-                "legends": [
-                    "Yes",
-                    "No"
-                ]
-            },
-            "Graph15": {
-                "headers": [],
-                "rowData": [],
-                "block": "MALIHABAD"
-            },
-            "id": 2
-        },
-        {
-            "Graph1": {
-                "data": [
-                    {
-                        "name": "Yes",
-                        "value": 28
-                    },
-                    {
-                        "name": "No",
-                        "value": 72
-                    }
-                ],
-                "name": "IHHL Coverage",
-                "block": "MALIHABAD",
-                "legends": [
-                    "Yes",
-                    "No"
-                ]
-            },
-            "Graph2": {
-                "data": 0.06,
-                "name": "Villages Covered",
-                "block": "MALIHABAD",
-                "legends": ""
-            },
-            "Graph3": {
-                "data": [
-                    {
-                        "name": "Yes",
-                        "value": 28
-                    },
-                    {
-                        "name": "No",
-                        "value": 72
-                    }
-                ],
-                "name": "Overall Toilet Usage",
-                "block": "MALIHABAD",
-                "legends": [
-                    "Yes",
-                    "No"
-                ]
-            },
-            "Graph4": {
-                "data": [
-                    {
-                        "name": "Safe Disposal",
-                        "value": 71
-                    },
-                    {
-                        "name": "Unsafe Disposal",
-                        "value": 29
-                    }
-                ],
-                "name": "Type of Disposal",
-                "block": "MALIHABAD",
-                "legends": [
-                    "Safe Disposal",
-                    "Unsafe Disposal"
-                ]
-            },
-            "Graph5": {
-                "data": [
-                    {
-                        "name": "Yes",
-                        "value": 0
-                    },
-                    {
-                        "name": "No",
-                        "value": 100
-                    }
-                ],
-                "name": "Incidences of open defecation",
-                "block": "MALIHABAD",
-                "legends": [
-                    "Yes",
-                    "No"
-                ]
-            },
-            "Graph6": {
-                "data": [
-                    {
-                        "name": "Yes",
-                        "value": 90
-                    },
-                    {
-                        "name": "No",
-                        "value": 10
-                    }
-                ],
-                "name": "Availability of Water",
-                "block": "MALIHABAD",
-                "legends": [
-                    "Yes",
-                    "No"
-                ]
-            },
-            "Graph7": {
-                "data": [
-                    {
-                        "name": "Fully Functional/Ready",
-                        "value": 23
-                    },
-                    {
-                        "name": "Almost ready/Super Structure Built",
-                        "value": 30
-                    },
-                    {
-                        "name": "Sub-structure built",
-                        "value": 0
-                    },
-                    {
-                        "name": "Yet to be constructed",
-                        "value": 47
-                    }
-                ],
-                "name": "Over-reporting of SBM Toilets",
-                "block": "MALIHABAD",
-                "legends": [
-                    "Fully Functional/Ready",
-                    "Almost Ready/Super Structure Built",
-                    "Sub-structure Built",
-                    "Yet to be Constructed"
-                ]
-            },
-            "Graph8": {
-                "data": [
-                    {
-                        "name": "Pan Integrity",
-                        "value": 60
-                    },
-                    {
-                        "name": "Junction Chamber",
-                        "value": 45
-                    },
-                    {
-                        "name": "Disposal Structure",
-                        "value": 60
-                    },
-                    {
-                        "name": "Toilet Super Structure",
-                        "value": 57
-                    },
-                    {
-                        "name": "Water Storage",
-                        "value": 30
-                    },
-                    {
-                        "name": "Cleanliness and Hygiene",
-                        "value": 71
-                    }
-                ],
-                "name": "Quality of SBM Toilets",
-                "block": "MALIHABAD",
-                "legends": [
-                    "Pan Integrity",
-                    "Junction Chamber",
-                    "Disposal Structure",
-                    "Toilet Super Structure",
-                    "Water Storage",
-                    "Cleanliness and Hygiene"
-                ]
-            },
-            "Graph9": {
-                "block": "MALIHABAD"
-            },
-            "Graph10": {
-                "data": [
-                    {
-                        "name": "Yes",
-                        "value": 0
-                    },
-                    {
-                        "name": "No",
-                        "value": 100
-                    }
-                ],
-                "name": "Availablity of Community/Public Toilet",
-                "block": "MALIHABAD",
-                "legends": [
-                    "Yes",
-                    "No"
-                ]
-            },
-            "Graph11": {
-                "data": [
-                    {
-                        "name": "Yes",
-                        "value": 0
-                    },
-                    {
-                        "name": "No",
-                        "value": 100
-                    }
-                ],
-                "name": "Functionality of Community/Public Toilet",
-                "block": "MALIHABAD",
-                "legends": [
-                    "Yes",
-                    "No"
-                ]
-            },
-            "Graph12": {
-                "data": [
-                    {
-                        "name": "Yes",
-                        "value": 28
-                    },
-                    {
-                        "name": "No",
-                        "value": 72
-                    }
-                ],
-                "name": "IHHL Coverage",
-                "block": "MALIHABAD",
-                "legends": [
-                    "Yes",
-                    "No"
-                ]
-            },
-            "Graph13": {
-                "data3_count": 0,
-                "data6_count": 1,
-                "data1_count": 520,
-                "data7_count": 1,
-                "data4_count": 1,
-                "data3": "Villages with Incidences of open defecation",
-                "data5_count": 0,
-                "data5": "Access to Toilet in Schools",
-                "data4": "Schools Covered",
-                "data7": "Access to Toilet in Anganwadi",
-                "data6": "Anganwadi covered",
-                "data1": "Target Villages",
-                "data2_count": 1,
-                "block": "MALIHABAD",
-                "data2": "Villages Covered"
-            },
-            "Graph14": {
-                "data": [
-                    {
-                        "name": "Yes",
-                        "value": 72
-                    },
-                    {
-                        "name": "No",
-                        "value": 28
-                    }
-                ],
-                "name": "Overall Toilet Usage",
-                "legends": [
-                    "Yes",
-                    "No"
-                ]
-            },
-            "Graph15": {
-                "headers": [],
-                "rowData": [],
-                "block": "MALIHABAD"
-            },
-            "id": 3
-        },
-        {
-            "Graph1": {
-                "data": [
-                    {
-                        "name": "Yes",
-                        "value": 28
-                    },
-                    {
-                        "name": "No",
-                        "value": 72
-                    }
-                ],
-                "name": "IHHL Coverage",
-                "block": "MALIHABAD",
-                "legends": [
-                    "Yes",
-                    "No"
-                ]
-            },
-            "Graph2": {
-                "data": 0.06,
-                "name": "Villages Covered",
-                "block": "MALIHABAD",
-                "legends": ""
-            },
-            "Graph3": {
-                "data": [
-                    {
-                        "name": "Yes",
-                        "value": 28
-                    },
-                    {
-                        "name": "No",
-                        "value": 72
-                    }
-                ],
-                "name": "Overall Toilet Usage",
-                "block": "MALIHABAD",
-                "legends": [
-                    "Yes",
-                    "No"
-                ]
-            },
-            "Graph4": {
-                "data": [
-                    {
-                        "name": "Safe Disposal",
-                        "value": 71
-                    },
-                    {
-                        "name": "Unsafe Disposal",
-                        "value": 29
-                    }
-                ],
-                "name": "Type of Disposal",
-                "block": "MALIHABAD",
-                "legends": [
-                    "Safe Disposal",
-                    "Unsafe Disposal"
-                ]
-            },
-            "Graph5": {
-                "data": [
-                    {
-                        "name": "Yes",
-                        "value": 0
-                    },
-                    {
-                        "name": "No",
-                        "value": 100
-                    }
-                ],
-                "name": "Incidences of open defecation",
-                "block": "MALIHABAD",
-                "legends": [
-                    "Yes",
-                    "No"
-                ]
-            },
-            "Graph6": {
-                "data": [
-                    {
-                        "name": "Yes",
-                        "value": 90
-                    },
-                    {
-                        "name": "No",
-                        "value": 10
-                    }
-                ],
-                "name": "Availability of Water",
-                "block": "MALIHABAD",
-                "legends": [
-                    "Yes",
-                    "No"
-                ]
-            },
-            "Graph7": {
-                "data": [
-                    {
-                        "name": "Fully Functional/Ready",
-                        "value": 23
-                    },
-                    {
-                        "name": "Almost ready/Super Structure Built",
-                        "value": 30
-                    },
-                    {
-                        "name": "Sub-structure built",
-                        "value": 0
-                    },
-                    {
-                        "name": "Yet to be constructed",
-                        "value": 47
-                    }
-                ],
-                "name": "Over-reporting of SBM Toilets",
-                "block": "MALIHABAD",
-                "legends": [
-                    "Fully Functional/Ready",
-                    "Almost Ready/Super Structure Built",
-                    "Sub-structure Built",
-                    "Yet to be Constructed"
-                ]
-            },
-            "Graph8": {
-                "data": [
-                    {
-                        "name": "Pan Integrity",
-                        "value": 60
-                    },
-                    {
-                        "name": "Junction Chamber",
-                        "value": 45
-                    },
-                    {
-                        "name": "Disposal Structure",
-                        "value": 60
-                    },
-                    {
-                        "name": "Toilet Super Structure",
-                        "value": 57
-                    },
-                    {
-                        "name": "Water Storage",
-                        "value": 30
-                    },
-                    {
-                        "name": "Cleanliness and Hygiene",
-                        "value": 71
-                    }
-                ],
-                "name": "Quality of SBM Toilets",
-                "block": "MALIHABAD",
-                "legends": [
-                    "Pan Integrity",
-                    "Junction Chamber",
-                    "Disposal Structure",
-                    "Toilet Super Structure",
-                    "Water Storage",
-                    "Cleanliness and Hygiene"
-                ]
-            },
-            "Graph9": {
-                "block": "MALIHABAD"
-            },
-            "Graph10": {
-                "data": [
-                    {
-                        "name": "Yes",
-                        "value": 0
-                    },
-                    {
-                        "name": "No",
-                        "value": 100
-                    }
-                ],
-                "name": "Availablity of Community/Public Toilet",
-                "block": "MALIHABAD",
-                "legends": [
-                    "Yes",
-                    "No"
-                ]
-            },
-            "Graph11": {
-                "data": [
-                    {
-                        "name": "Yes",
-                        "value": 0
-                    },
-                    {
-                        "name": "No",
-                        "value": 100
-                    }
-                ],
-                "name": "Functionality of Community/Public Toilet",
-                "block": "MALIHABAD",
-                "legends": [
-                    "Yes",
-                    "No"
-                ]
-            },
-            "Graph12": {
-                "data": [
-                    {
-                        "name": "Yes",
-                        "value": 28
-                    },
-                    {
-                        "name": "No",
-                        "value": 72
-                    }
-                ],
-                "name": "IHHL Coverage",
-                "block": "MALIHABAD",
-                "legends": [
-                    "Yes",
-                    "No"
-                ]
-            },
-            "Graph13": {
-                "data3_count": 0,
-                "data6_count": 1,
-                "data1_count": 520,
-                "data7_count": 1,
-                "data4_count": 1,
-                "data3": "Villages with Incidences of open defecation",
-                "data5_count": 0,
-                "data5": "Access to Toilet in Schools",
-                "data4": "Schools Covered",
-                "data7": "Access to Toilet in Anganwadi",
-                "data6": "Anganwadi covered",
-                "data1": "Target Villages",
-                "data2_count": 1,
-                "block": "MALIHABAD",
-                "data2": "Villages Covered"
-            },
-            "Graph14": {
-                "data": [
-                    {
-                        "name": "Yes",
-                        "value": 72
-                    },
-                    {
-                        "name": "No",
-                        "value": 28
-                    }
-                ],
-                "name": "Overall Toilet Usage",
-                "legends": [
-                    "Yes",
-                    "No"
-                ]
-            },
-            "Graph15": {
-                "headers": [],
-                "rowData": [],
-                "block": "MALIHABAD"
-            },
-            "id": 4
-        },
-        {
-            "Graph1": {
-                "data": [
-                    {
-                        "name": "Yes",
-                        "value": 28.0
-                    },
-                    {
-                        "name": "No",
-                        "value": 72.0
-                    }
-                ],
-                "name": "IHHL Coverage",
-                "block": "MALIHABAD",
-                "legends": [
-                    "Yes",
-                    "No"
-                ]
-            },
-            "Graph2": {
-                "data": 0.06,
-                "name": "Villages Covered",
-                "block": "MALIHABAD",
-                "legends": ""
-            },
-            "Graph3": {
-                "data": [
-                    {
-                        "name": "Yes",
-                        "value": 28.0
-                    },
-                    {
-                        "name": "No",
-                        "value": 72.0
-                    }
-                ],
-                "name": "Overall Toilet Usage",
-                "block": "MALIHABAD",
-                "legends": [
-                    "Yes",
-                    "No"
-                ]
-            },
-            "Graph4": {
-                "data": [
-                    {
-                        "name": "Safe Disposal",
-                        "value": 71.0
-                    },
-                    {
-                        "name": "Unsafe Disposal",
-                        "value": 29.0
-                    }
-                ],
-                "name": "Type of Disposal",
-                "block": "MALIHABAD",
-                "legends": [
-                    "Safe Disposal",
-                    "Unsafe Disposal"
-                ]
-            },
-            "Graph5": {
-                "data": [
-                    {
-                        "name": "Yes",
-                        "value": 0.0
-                    },
-                    {
-                        "name": "No",
-                        "value": 100.0
-                    }
-                ],
-                "name": "Incidences of open defecation",
-                "block": "MALIHABAD",
-                "legends": [
-                    "Yes",
-                    "No"
-                ]
-            },
-            "Graph6": {
-                "data": [
-                    {
-                        "name": "Yes",
-                        "value": 90.0
-                    },
-                    {
-                        "name": "No",
-                        "value": 10.0
-                    }
-                ],
-                "name": "Availability of Water",
-                "block": "MALIHABAD",
-                "legends": [
-                    "Yes",
-                    "No"
-                ]
-            },
-            "Graph7": {
-                "data": [
-                    {
-                        "name": "Fully Functional/Ready",
                         "value": 23.0
                     },
                     {
-                        "name": "Almost ready/Super Structure Built",
-                        "value": 30.0
+                        "name": "No",
+                        "value": 77.0
+                    }
+                ],
+                "name": "IHHL Coverage",
+                "block": "SIRATHU",
+                "legends": [
+                    "Yes",
+                    "No"
+                ]
+            },
+            "Graph2": {
+                "data": 6.45,
+                "name": "Villages Covered",
+                "block": "SIRATHU",
+                "legends": ""
+            },
+            "Graph3": {
+                "data": [
+                    {
+                        "name": "Yes",
+                        "value": 16.0
                     },
                     {
-                        "name": "Sub-structure built",
+                        "name": "No",
+                        "value": 84.0
+                    }
+                ],
+                "name": "Overall Toilet Usage",
+                "block": "SIRATHU",
+                "legends": [
+                    "Yes",
+                    "No"
+                ]
+            },
+            "Graph4": {
+                "data": [
+                    {
+                        "name": "Safe Disposal",
+                        "value": 100.0
+                    },
+                    {
+                        "name": "Unsafe Disposal",
                         "value": 0.0
+                    }
+                ],
+                "name": "Type of Disposal",
+                "block": "SIRATHU",
+                "legends": [
+                    "Safe Disposal",
+                    "Unsafe Disposal"
+                ]
+            },
+            "Graph5": {
+                "data": [
+                    {
+                        "name": "Yes",
+                        "value": 50.0
                     },
                     {
-                        "name": "Yet to be constructed",
-                        "value": 47.0
+                        "name": "No",
+                        "value": 50.0
+                    }
+                ],
+                "name": "Incidences of open defecation",
+                "block": "SIRATHU",
+                "legends": [
+                    "Yes",
+                    "No"
+                ]
+            },
+            "Graph6": {
+                "data": [
+                    {
+                        "name": "Yes",
+                        "value": 21.0
+                    },
+                    {
+                        "name": "No",
+                        "value": 79.0
+                    }
+                ],
+                "name": "Availability of Water",
+                "block": "SIRATHU",
+                "legends": [
+                    "Yes",
+                    "No"
+                ]
+            },
+            "Graph7": {
+                "data": [
+                    {
+                        "name": "Fully Functional/Ready",
+                        "value": 31.0
+                    },
+                    {
+                        "name": "Sub-structure Built",
+                        "value": 27.0
+                    },
+                    {
+                        "name": "Yet to be Constructed",
+                        "value": 37.0
+                    },
+                    {
+                        "name": "Almost Ready/Super Structure Built",
+                        "value": 5.0
                     }
                 ],
                 "name": "Over-reporting of SBM Toilets",
-                "block": "MALIHABAD",
+                "block": "SIRATHU",
                 "legends": [
                     "Fully Functional/Ready",
-                    "Almost Ready/Super Structure Built",
+                    "Yet to be Constructed",
                     "Sub-structure Built",
-                    "Yet to be Constructed"
+                    "Almost Ready/Super Structure Built"
                 ]
             },
             "Graph8": {
                 "data": [
                     {
                         "name": "Pan Integrity",
-                        "value": 60.0
+                        "value": 47.0
                     },
                     {
                         "name": "Junction Chamber",
-                        "value": 45.0
+                        "value": 20.0
                     },
                     {
                         "name": "Disposal Structure",
-                        "value": 60.0
+                        "value": 45.0
                     },
                     {
                         "name": "Toilet Super Structure",
-                        "value": 57.0
+                        "value": 60.0
                     },
                     {
                         "name": "Water Storage",
-                        "value": 30.0
+                        "value": 17.0
                     },
                     {
                         "name": "Cleanliness and Hygiene",
-                        "value": 71.0
+                        "value": 20.0
                     }
                 ],
                 "name": "Quality of SBM Toilets",
-                "block": "MALIHABAD",
+                "block": "SIRATHU",
                 "legends": [
                     "Pan Integrity",
                     "Junction Chamber",
@@ -1454,7 +432,7 @@
                 ]
             },
             "Graph9": {
-                "block": "MALIHABAD"
+                "block": "SIRATHU"
             },
             "Graph10": {
                 "data": [
@@ -1468,7 +446,7 @@
                     }
                 ],
                 "name": "Availablity of Community/Public Toilet",
-                "block": "MALIHABAD",
+                "block": "SIRATHU",
                 "legends": [
                     "Yes",
                     "No"
@@ -1482,11 +460,11 @@
                     },
                     {
                         "name": "No",
-                        "value": 100.0
+                        "value": 0.0
                     }
                 ],
                 "name": "Functionality of Community/Public Toilet",
-                "block": "MALIHABAD",
+                "block": "SIRATHU",
                 "legends": [
                     "Yes",
                     "No"
@@ -1496,15 +474,15 @@
                 "data": [
                     {
                         "name": "Yes",
-                        "value": 28.0
+                        "value": 0
                     },
                     {
                         "name": "No",
-                        "value": 72.0
+                        "value": 0
                     }
                 ],
                 "name": "IHHL Coverage",
-                "block": "MALIHABAD",
+                "block": "SIRATHU",
                 "legends": [
                     "Yes",
                     "No"
@@ -1512,10 +490,10 @@
             },
             "Graph13": {
                 "data3_count": 0,
-                "data6_count": 1,
-                "data1_count": 6,
-                "data7_count": 1,
-                "data4_count": 1,
+                "data6_count": 0,
+                "data1_count": 11,
+                "data7_count": 0,
+                "data4_count": 0,
                 "data3": "Villages with Incidences of open defecation",
                 "data5_count": 0,
                 "data5": "Access to Toilet in Schools",
@@ -1523,25 +501,854 @@
                 "data7": "Access to Toilet in Anganwadi",
                 "data6": "Anganwadi covered",
                 "data1": "Target Villages",
-                "data2_count": 1,
-                "block": "MALIHABAD",
+                "data2_count": 0,
+                "block": "SIRATHU",
                 "data2": "Villages Covered"
             },
             "Graph14": {
                 "data": [
                     {
                         "name": "Yes",
-                        "value": 72.0
+                        "value": 0
                     },
                     {
                         "name": "No",
-                        "value": 28.0
+                        "value": 0
+                    }
+                ],
+                "name": "Overall Toilet Usage",
+                "block": "SIRATHU",
+                "legends": [
+                    "Yes",
+                    "No"
+                ]
+            },
+            "Graph15": {
+                "headers": [
+                    "Sno.",
+                    "Village Name",
+                    "Category",
+                    "IHHL Toilet coverage",
+                    "Overall toilet usage",
+                    "Over-reporting of SBM Toilets",
+                    "Construction Quality of SBM Toilets",
+                    "Safe disposal",
+                    "Incidence of open defection",
+                    "Availability of CT/PT",
+                    "Functionality of CT/PT"
+                ],
+                "rowData": [],
+                "block": "SIRATHU"
+            },
+            "ODFVillages": 0,
+            "Villages": 0,
+            "id": 5
+        },
+        {
+            "Graph1": {
+                "data": [
+                    {
+                        "name": "Yes",
+                        "value": 18.0
+                    },
+                    {
+                        "name": "No",
+                        "value": 82.0
+                    }
+                ],
+                "name": "IHHL Coverage",
+                "block": "SIRATHU",
+                "legends": [
+                    "Yes",
+                    "No"
+                ]
+            },
+            "Graph2": {
+                "data": 6.67,
+                "name": "Villages Covered",
+                "block": "SIRATHU",
+                "legends": ""
+            },
+            "Graph3": {
+                "data": [
+                    {
+                        "name": "Yes",
+                        "value": 11.0
+                    },
+                    {
+                        "name": "No",
+                        "value": 89.0
+                    }
+                ],
+                "name": "Overall Toilet Usage",
+                "block": "SIRATHU",
+                "legends": [
+                    "Yes",
+                    "No"
+                ]
+            },
+            "Graph4": {
+                "data": [
+                    {
+                        "name": "Safe Disposal",
+                        "value": 100.0
+                    },
+                    {
+                        "name": "Unsafe Disposal",
+                        "value": 0.0
+                    }
+                ],
+                "name": "Type of Disposal",
+                "block": "SIRATHU",
+                "legends": [
+                    "Safe Disposal",
+                    "Unsafe Disposal"
+                ]
+            },
+            "Graph5": {
+                "data": [
+                    {
+                        "name": "Yes",
+                        "value": 50.0
+                    },
+                    {
+                        "name": "No",
+                        "value": 50.0
+                    }
+                ],
+                "name": "Incidences of open defecation",
+                "block": "SIRATHU",
+                "legends": [
+                    "Yes",
+                    "No"
+                ]
+            },
+            "Graph6": {
+                "data": [
+                    {
+                        "name": "Yes",
+                        "value": 0.0
+                    },
+                    {
+                        "name": "No",
+                        "value": 100.0
+                    }
+                ],
+                "name": "Availability of Water",
+                "block": "SIRATHU",
+                "legends": [
+                    "Yes",
+                    "No"
+                ]
+            },
+            "Graph7": {
+                "data": [
+                    {
+                        "name": "Fully Functional/Ready",
+                        "value": 2.0
+                    },
+                    {
+                        "name": "Sub-structure Built",
+                        "value": 0.0
+                    },
+                    {
+                        "name": "Yet to be Constructed",
+                        "value": 98.0
+                    },
+                    {
+                        "name": "Almost Ready/Super Structure Built",
+                        "value": 0.0
+                    }
+                ],
+                "name": "Over-reporting of SBM Toilets",
+                "block": "SIRATHU",
+                "legends": [
+                    "Fully Functional/Ready",
+                    "Yet to be Constructed",
+                    "Sub-structure Built",
+                    "Almost Ready/Super Structure Built"
+                ]
+            },
+            "Graph8": {
+                "data": [
+                    {
+                        "name": "Pan Integrity",
+                        "value": 38.0
+                    },
+                    {
+                        "name": "Junction Chamber",
+                        "value": 17.0
+                    },
+                    {
+                        "name": "Disposal Structure",
+                        "value": 25.0
+                    },
+                    {
+                        "name": "Toilet Super Structure",
+                        "value": 31.0
+                    },
+                    {
+                        "name": "Water Storage",
+                        "value": 7.0
+                    },
+                    {
+                        "name": "Cleanliness and Hygiene",
+                        "value": 17.0
+                    }
+                ],
+                "name": "Quality of SBM Toilets",
+                "block": "SIRATHU",
+                "legends": [
+                    "Pan Integrity",
+                    "Junction Chamber",
+                    "Disposal Structure",
+                    "Toilet Super Structure",
+                    "Water Storage",
+                    "Cleanliness and Hygiene"
+                ]
+            },
+            "Graph9": {
+                "block": "SIRATHU"
+            },
+            "Graph10": {
+                "data": [
+                    {
+                        "name": "Yes",
+                        "value": 0.0
+                    },
+                    {
+                        "name": "No",
+                        "value": 100.0
+                    }
+                ],
+                "name": "Availablity of Community/Public Toilet",
+                "block": "SIRATHU",
+                "legends": [
+                    "Yes",
+                    "No"
+                ]
+            },
+            "Graph11": {
+                "data": [
+                    {
+                        "name": "Yes",
+                        "value": 0.0
+                    },
+                    {
+                        "name": "No",
+                        "value": 0.0
+                    }
+                ],
+                "name": "Functionality of Community/Public Toilet",
+                "block": "SIRATHU",
+                "legends": [
+                    "Yes",
+                    "No"
+                ]
+            },
+            "Graph12": {
+                "data": [
+                    {
+                        "name": "Yes",
+                        "value": 0
+                    },
+                    {
+                        "name": "No",
+                        "value": 0
+                    }
+                ],
+                "name": "IHHL Coverage",
+                "block": "SIRATHU",
+                "legends": [
+                    "Yes",
+                    "No"
+                ]
+            },
+            "Graph13": {
+                "data3_count": 0,
+                "data6_count": 0,
+                "data1_count": 4,
+                "data7_count": 0,
+                "data4_count": 0,
+                "data3": "Villages with Incidences of open defecation",
+                "data5_count": 0,
+                "data5": "Access to Toilet in Schools",
+                "data4": "Schools Covered",
+                "data7": "Access to Toilet in Anganwadi",
+                "data6": "Anganwadi covered",
+                "data1": "Target Villages",
+                "data2_count": 0,
+                "block": "SIRATHU",
+                "data2": "Villages Covered"
+            },
+            "Graph14": {
+                "data": [
+                    {
+                        "name": "Yes",
+                        "value": 0
+                    },
+                    {
+                        "name": "No",
+                        "value": 0
+                    }
+                ],
+                "name": "Overall Toilet Usage",
+                "block": "SIRATHU",
+                "legends": [
+                    "Yes",
+                    "No"
+                ]
+            },
+            "Graph15": {
+                "headers": [
+                    "Sno.",
+                    "Village Name",
+                    "Category",
+                    "IHHL Toilet coverage",
+                    "Overall toilet usage",
+                    "Over-reporting of SBM Toilets",
+                    "Construction Quality of SBM Toilets",
+                    "Safe disposal",
+                    "Incidence of open defection",
+                    "Availability of CT/PT",
+                    "Functionality of CT/PT"
+                ],
+                "rowData": [],
+                "block": "SIRATHU"
+            },
+            "ODFVillages": 0,
+            "Villages": 0,
+            "id": 6
+        },
+        {
+            "Graph1": {
+                "data": [
+                    {
+                        "name": "Yes",
+                        "value": 36.0
+                    },
+                    {
+                        "name": "No",
+                        "value": 64.0
+                    }
+                ],
+                "name": "IHHL Coverage",
+                "block": "SIRATHU",
+                "legends": [
+                    "Yes",
+                    "No"
+                ]
+            },
+            "Graph2": {
+                "data": 5.88,
+                "name": "Villages Covered",
+                "block": "SIRATHU",
+                "legends": ""
+            },
+            "Graph3": {
+                "data": [
+                    {
+                        "name": "Yes",
+                        "value": 20.0
+                    },
+                    {
+                        "name": "No",
+                        "value": 80.0
+                    }
+                ],
+                "name": "Overall Toilet Usage",
+                "block": "SIRATHU",
+                "legends": [
+                    "Yes",
+                    "No"
+                ]
+            },
+            "Graph4": {
+                "data": [
+                    {
+                        "name": "Safe Disposal",
+                        "value": 93.0
+                    },
+                    {
+                        "name": "Unsafe Disposal",
+                        "value": 7.0
+                    }
+                ],
+                "name": "Type of Disposal",
+                "block": "SIRATHU",
+                "legends": [
+                    "Safe Disposal",
+                    "Unsafe Disposal"
+                ]
+            },
+            "Graph5": {
+                "data": [
+                    {
+                        "name": "Yes",
+                        "value": 0.0
+                    },
+                    {
+                        "name": "No",
+                        "value": 100.0
+                    }
+                ],
+                "name": "Incidences of open defecation",
+                "block": "SIRATHU",
+                "legends": [
+                    "Yes",
+                    "No"
+                ]
+            },
+            "Graph6": {
+                "data": [
+                    {
+                        "name": "Yes",
+                        "value": 13.0
+                    },
+                    {
+                        "name": "No",
+                        "value": 88.0
+                    }
+                ],
+                "name": "Availability of Water",
+                "block": "SIRATHU",
+                "legends": [
+                    "Yes",
+                    "No"
+                ]
+            },
+            "Graph7": {
+                "data": [
+                    {
+                        "name": "Fully Functional/Ready",
+                        "value": 47.0
+                    },
+                    {
+                        "name": "Sub-structure Built",
+                        "value": 3.0
+                    },
+                    {
+                        "name": "Yet to be Constructed",
+                        "value": 47.0
+                    },
+                    {
+                        "name": "Almost Ready/Super Structure Built",
+                        "value": 3.0
+                    }
+                ],
+                "name": "Over-reporting of SBM Toilets",
+                "block": "SIRATHU",
+                "legends": [
+                    "Fully Functional/Ready",
+                    "Yet to be Constructed",
+                    "Sub-structure Built",
+                    "Almost Ready/Super Structure Built"
+                ]
+            },
+            "Graph8": {
+                "data": [
+                    {
+                        "name": "Pan Integrity",
+                        "value": 83.0
+                    },
+                    {
+                        "name": "Junction Chamber",
+                        "value": 0.0
+                    },
+                    {
+                        "name": "Disposal Structure",
+                        "value": 48.0
+                    },
+                    {
+                        "name": "Toilet Super Structure",
+                        "value": 60.0
+                    },
+                    {
+                        "name": "Water Storage",
+                        "value": 0.0
+                    },
+                    {
+                        "name": "Cleanliness and Hygiene",
+                        "value": 0.0
+                    }
+                ],
+                "name": "Quality of SBM Toilets",
+                "block": "SIRATHU",
+                "legends": [
+                    "Pan Integrity",
+                    "Junction Chamber",
+                    "Disposal Structure",
+                    "Toilet Super Structure",
+                    "Water Storage",
+                    "Cleanliness and Hygiene"
+                ]
+            },
+            "Graph9": {
+                "block": "SIRATHU"
+            },
+            "Graph10": {
+                "data": [
+                    {
+                        "name": "Yes",
+                        "value": 0.0
+                    },
+                    {
+                        "name": "No",
+                        "value": 100.0
+                    }
+                ],
+                "name": "Availablity of Community/Public Toilet",
+                "block": "SIRATHU",
+                "legends": [
+                    "Yes",
+                    "No"
+                ]
+            },
+            "Graph11": {
+                "data": [
+                    {
+                        "name": "Yes",
+                        "value": 0.0
+                    },
+                    {
+                        "name": "No",
+                        "value": 0.0
+                    }
+                ],
+                "name": "Functionality of Community/Public Toilet",
+                "block": "SIRATHU",
+                "legends": [
+                    "Yes",
+                    "No"
+                ]
+            },
+            "Graph12": {
+                "data": [
+                    {
+                        "name": "Yes",
+                        "value": 0
+                    },
+                    {
+                        "name": "No",
+                        "value": 0
+                    }
+                ],
+                "name": "IHHL Coverage",
+                "block": "SIRATHU",
+                "legends": [
+                    "Yes",
+                    "No"
+                ]
+            },
+            "Graph13": {
+                "data3_count": 0,
+                "data6_count": 0,
+                "data1_count": 3,
+                "data7_count": 0,
+                "data4_count": 0,
+                "data3": "Villages with Incidences of open defecation",
+                "data5_count": 0,
+                "data5": "Access to Toilet in Schools",
+                "data4": "Schools Covered",
+                "data7": "Access to Toilet in Anganwadi",
+                "data6": "Anganwadi covered",
+                "data1": "Target Villages",
+                "data2_count": 0,
+                "block": "SIRATHU",
+                "data2": "Villages Covered"
+            },
+            "Graph14": {
+                "data": [
+                    {
+                        "name": "Yes",
+                        "value": 0
+                    },
+                    {
+                        "name": "No",
+                        "value": 0
+                    }
+                ],
+                "name": "Overall Toilet Usage",
+                "block": "SIRATHU",
+                "legends": [
+                    "Yes",
+                    "No"
+                ]
+            },
+            "Graph15": {
+                "headers": [
+                    "Sno.",
+                    "Village Name",
+                    "Category",
+                    "IHHL Toilet coverage",
+                    "Overall toilet usage",
+                    "Over-reporting of SBM Toilets",
+                    "Construction Quality of SBM Toilets",
+                    "Safe disposal",
+                    "Incidence of open defection",
+                    "Availability of CT/PT",
+                    "Functionality of CT/PT"
+                ],
+                "rowData": [],
+                "block": "SIRATHU"
+            },
+            "ODFVillages": 0,
+            "Villages": 0,
+            "id": 7
+        },
+        {
+            "Graph1": {
+                "data": [
+                    {
+                        "name": "No",
+                        "value": 18.0
+                    },
+                    {
+                        "name": "Yes",
+                        "value": 82.0
                     }
                 ],
                 "legends": [
                     "Yes",
                     "No"
                 ],
+                "block": "MANDHATA",
+                "name": "IHHL Coverage"
+            },
+            "Graph2": {
+                "data": 33.33,
+                "legends": "",
+                "block": "MANDHATA",
+                "name": "Villages Covered"
+            },
+            "Graph3": {
+                "data": [
+                    {
+                        "name": "Yes",
+                        "value": 89.0
+                    },
+                    {
+                        "name": "No",
+                        "value": 11.0
+                    }
+                ],
+                "legends": [
+                    "Yes",
+                    "No"
+                ],
+                "block": "MANDHATA",
+                "name": "Overall Toilet Usage"
+            },
+            "Graph4": {
+                "data": [
+                    {
+                        "name": "Safe Disposal",
+                        "value": 100.0
+                    },
+                    {
+                        "name": "Unsafe Disposal",
+                        "value": 0.0
+                    }
+                ],
+                "legends": [
+                    "Safe Disposal",
+                    "Unsafe Disposal"
+                ],
+                "block": "MANDHATA",
+                "name": "Type of Disposal"
+            },
+            "Graph5": {
+                "data": [
+                    {
+                        "name": "Yes",
+                        "value": 50.0
+                    },
+                    {
+                        "name": "No",
+                        "value": 50.0
+                    }
+                ],
+                "legends": [
+                    "Yes",
+                    "No"
+                ],
+                "block": "MANDHATA",
+                "name": "Incidences of open defecation"
+            },
+            "Graph6": {
+                "data": [
+                    {
+                        "name": "Yes",
+                        "value": 0.0
+                    },
+                    {
+                        "name": "No",
+                        "value": 100.0
+                    }
+                ],
+                "legends": [
+                    "Yes",
+                    "No"
+                ],
+                "block": "MANDHATA",
+                "name": "Availability of Water"
+            },
+            "Graph7": {
+                "data": [
+                    {
+                        "name": "Fully Functional/Ready",
+                        "value": 2.0
+                    },
+                    {
+                        "name": "Sub-structure Built",
+                        "value": 0.0
+                    },
+                    {
+                        "name": "Yet to be Constructed",
+                        "value": 98.0
+                    },
+                    {
+                        "name": "Almost Ready/Super Structure Built",
+                        "value": 0.0
+                    }
+                ],
+                "legends": [
+                    "Fully Functional/Ready",
+                    "Yet to be Constructed",
+                    "Sub-structure Built",
+                    "Almost Ready/Super Structure Built"
+                ],
+                "block": "MANDHATA",
+                "name": "Over-reporting of SBM Toilets"
+            },
+            "Graph8": {
+                "data": [
+                    {
+                        "name": "Pan Integrity",
+                        "value": 38.0
+                    },
+                    {
+                        "name": "Junction Chamber",
+                        "value": 17.0
+                    },
+                    {
+                        "name": "Disposal Structure",
+                        "value": 25.0
+                    },
+                    {
+                        "name": "Toilet Super Structure",
+                        "value": 31.0
+                    },
+                    {
+                        "name": "Water Storage",
+                        "value": 7.0
+                    },
+                    {
+                        "name": "Cleanliness and Hygiene",
+                        "value": 40.0
+                    }
+                ],
+                "legends": [
+                    "Pan Integrity",
+                    "Junction Chamber",
+                    "Disposal Structure",
+                    "Toilet Super Structure",
+                    "Water Storage",
+                    "Cleanliness and Hygiene"
+                ],
+                "block": "MANDHATA",
+                "name": "Quality of SBM Toilets"
+            },
+            "Graph9": {
+                "block": "MANDHATA"
+            },
+            "Graph10": {
+                "data": [
+                    {
+                        "name": "Yes",
+                        "value": 0.0
+                    },
+                    {
+                        "name": "No",
+                        "value": 100.0
+                    }
+                ],
+                "legends": [
+                    "Yes",
+                    "No"
+                ],
+                "block": "MANDHATA",
+                "name": "Availablity of Community/Public Toilet"
+            },
+            "Graph11": {
+                "data": [
+                    {
+                        "name": "Yes",
+                        "value": 0.0
+                    },
+                    {
+                        "name": "No",
+                        "value": 0.0
+                    }
+                ],
+                "legends": [
+                    "Yes",
+                    "No"
+                ],
+                "block": "MANDHATA",
+                "name": "Functionality of Community/Public Toilet"
+            },
+            "Graph12": {
+                "data": [
+                    {
+                        "name": "Yes",
+                        "value": 0
+                    },
+                    {
+                        "name": "No",
+                        "value": 0
+                    }
+                ],
+                "name": "IHHL Coverage",
+                "block": "MANDHATA",
+                "legends": [
+                    "Yes",
+                    "No"
+                ]
+            },
+            "Graph13": {
+                "data3_count": 0,
+                "data6_count": 0,
+                "data1_count": 1,
+                "data7_count": 0,
+                "data4_count": 0,
+                "data3": "Villages with Incidences of open defecation",
+                "data5_count": 0,
+                "data5": "Access to Toilet in Schools",
+                "data4": "Schools Covered",
+                "data7": "Access to Toilet in Anganwadi",
+                "data6": "Anganwadi covered",
+                "data1": "Target Villages",
+                "data2_count": 0,
+                "block": "MANDHATA",
+                "data2": "Villages Covered"
+            },
+            "Graph14": {
+                "data": [
+                    {
+                        "name": "Yes",
+                        "value": 0
+                    },
+                    {
+                        "name": "No",
+                        "value": 0
+                    }
+                ],
+                "legends": [
+                    "Yes",
+                    "No"
+                ],
+                "block": "MANDHATA",
                 "name": "Overall Toilet Usage"
             },
             "Graph15": {
@@ -1561,83 +1368,96 @@
                 "rowData": [
                     [
                         1,
-                        "GARHI SAJAR KHAN",
-                        "ODF",
-                        28,
-                        28,
-                        77,
-                        70,
-                        71,
+                        "BEERAM PUR",
+                        "NON-ODF",
+                        "11%",
+                        "93%",
+                        "100%",
+                        "29%",
+                        "0%",
+                        "Yes",
+                        "No",
+                        "-"
+                    ],
+                    [
+                        2,
+                        "NEWARI",
+                        "NON-ODF",
+                        "24%",
+                        "86%",
+                        "97%",
+                        "34%",
+                        "100%",
                         "No",
                         "No",
-                        "No"
+                        "-"
                     ]
                 ],
-                "block": "MALIHABAD"
+                "block": "MANDHATA"
             },
-            "ODFVillages": 1,
-            "Villages": 0,
-            "id": 5
+            "ODFVillages": 0,
+            "Villages": 1,
+            "id": 81
         },
         {
             "Graph1": {
                 "data": [
                     {
                         "name": "No",
-                        "value": 28.0
+                        "value": 36.0
                     },
                     {
                         "name": "Yes",
-                        "value": 72.0
+                        "value": 64.0
                     }
                 ],
                 "legends": [
                     "Yes",
                     "No"
                 ],
-                "block": "MALIHABAD",
+                "block": "MUJEHANA",
                 "name": "IHHL Coverage"
             },
             "Graph2": {
-                "data": 0.06,
+                "data": 20.0,
                 "legends": "",
-                "block": "MALIHABAD",
+                "block": "MUJEHANA",
                 "name": "Villages Covered"
             },
             "Graph3": {
                 "data": [
                     {
                         "name": "Yes",
-                        "value": 28.0
+                        "value": 80.0
                     },
                     {
                         "name": "No",
-                        "value": 72.0
+                        "value": 20.0
                     }
                 ],
                 "legends": [
                     "Yes",
                     "No"
                 ],
-                "block": "MALIHABAD",
+                "block": "MUJEHANA",
                 "name": "Overall Toilet Usage"
             },
             "Graph4": {
                 "data": [
                     {
                         "name": "Safe Disposal",
-                        "value": 71.0
+                        "value": 93.0
                     },
                     {
                         "name": "Unsafe Disposal",
-                        "value": 29.0
+                        "value": 7.0
                     }
                 ],
                 "legends": [
                     "Safe Disposal",
                     "Unsafe Disposal"
                 ],
-                "block": "MALIHABAD",
+                "block": "MUJEHANA",
                 "name": "Type of Disposal"
             },
             "Graph5": {
@@ -1655,80 +1475,80 @@
                     "Yes",
                     "No"
                 ],
-                "block": "MALIHABAD",
+                "block": "MUJEHANA",
                 "name": "Incidences of open defecation"
             },
             "Graph6": {
                 "data": [
                     {
                         "name": "Yes",
-                        "value": 90.0
+                        "value": 13.0
                     },
                     {
                         "name": "No",
-                        "value": 10.0
+                        "value": 88.0
                     }
                 ],
                 "legends": [
                     "Yes",
                     "No"
                 ],
-                "block": "MALIHABAD",
+                "block": "MUJEHANA",
                 "name": "Availability of Water"
             },
             "Graph7": {
                 "data": [
                     {
                         "name": "Fully Functional/Ready",
-                        "value": 23.0
-                    },
-                    {
-                        "name": "Almost ready/Super Structure Built",
-                        "value": 30.0
-                    },
-                    {
-                        "name": "Sub-structure built",
-                        "value": 0.0
-                    },
-                    {
-                        "name": "Yet to be constructed",
                         "value": 47.0
+                    },
+                    {
+                        "name": "Sub-structure Built",
+                        "value": 3.0
+                    },
+                    {
+                        "name": "Yet to be Constructed",
+                        "value": 47.0
+                    },
+                    {
+                        "name": "Almost Ready/Super Structure Built",
+                        "value": 3.0
                     }
                 ],
                 "legends": [
                     "Fully Functional/Ready",
-                    "Almost Ready/Super Structure Built",
+                    "Yet to be Constructed",
                     "Sub-structure Built",
-                    "Yet to be Constructed"
+                    "Almost Ready/Super Structure Built"
                 ],
-                "block": "MALIHABAD",
+                "block": "MUJEHANA",
                 "name": "Over-reporting of SBM Toilets"
             },
             "Graph8": {
                 "data": [
                     {
                         "name": "Pan Integrity",
-                        "value": 60.0
+                        "value": 83.0
                     },
                     {
                         "name": "Junction Chamber",
-                        "value": 45.0
+                        "value": 0.0
                     },
                     {
                         "name": "Disposal Structure",
-                        "value": 60.0
+                        "value": 48.0
                     },
                     {
                         "name": "Toilet Super Structure",
-                        "value": 57.0
+                        "value": 60.0
                     },
                     {
                         "name": "Water Storage",
-                        "value": 30.0
+                        "value": 0.0
                     },
                     {
                         "name": "Cleanliness and Hygiene",
-                        "value": 71.0
+                        "value": 87.0
                     }
                 ],
                 "legends": [
@@ -1739,11 +1559,11 @@
                     "Water Storage",
                     "Cleanliness and Hygiene"
                 ],
-                "block": "MALIHABAD",
+                "block": "MUJEHANA",
                 "name": "Quality of SBM Toilets"
             },
             "Graph9": {
-                "block": "MALIHABAD"
+                "block": "MUJEHANA"
             },
             "Graph10": {
                 "data": [
@@ -1760,7 +1580,7 @@
                     "Yes",
                     "No"
                 ],
-                "block": "MALIHABAD",
+                "block": "MUJEHANA",
                 "name": "Availablity of Community/Public Toilet"
             },
             "Graph11": {
@@ -1771,29 +1591,29 @@
                     },
                     {
                         "name": "No",
-                        "value": 100.0
+                        "value": 0.0
                     }
                 ],
                 "legends": [
                     "Yes",
                     "No"
                 ],
-                "block": "MALIHABAD",
+                "block": "MUJEHANA",
                 "name": "Functionality of Community/Public Toilet"
             },
             "Graph12": {
                 "data": [
                     {
                         "name": "Yes",
-                        "value": 28.0
+                        "value": 0
                     },
                     {
                         "name": "No",
-                        "value": 72.0
+                        "value": 0
                     }
                 ],
                 "name": "IHHL Coverage",
-                "block": "MALIHABAD",
+                "block": "MUJEHANA",
                 "legends": [
                     "Yes",
                     "No"
@@ -1801,10 +1621,10 @@
             },
             "Graph13": {
                 "data3_count": 0,
-                "data6_count": 1,
-                "data1_count": 3,
-                "data7_count": 1,
-                "data4_count": 1,
+                "data6_count": 0,
+                "data1_count": 1,
+                "data7_count": 0,
+                "data4_count": 0,
                 "data3": "Villages with Incidences of open defecation",
                 "data5_count": 0,
                 "data5": "Access to Toilet in Schools",
@@ -1812,27 +1632,28 @@
                 "data7": "Access to Toilet in Anganwadi",
                 "data6": "Anganwadi covered",
                 "data1": "Target Villages",
-                "data2_count": 1,
-                "block": "MALIHABAD",
+                "data2_count": 0,
+                "block": "MUJEHANA",
                 "data2": "Villages Covered"
             },
             "Graph14": {
                 "data": [
                     {
                         "name": "Yes",
-                        "value": 72
+                        "value": 0
                     },
                     {
                         "name": "No",
-                        "value": 28
+                        "value": 0
                     }
                 ],
-                "name": "Overall Toilet Usage",
                 "legends": [
                     "Yes",
                     "No"
-                ]
-            }, 
+                ],
+                "block": "MUJEHANA",
+                "name": "Overall Toilet Usage"
+            },
             "Graph15": {
                 "headers": [
                     "Sno.",
@@ -1850,23 +1671,326 @@
                 "rowData": [
                     [
                         1,
-                        "GARHI SAJAR KHAN",
-                        "ODF",
-                        28,
-                        28,
-                        77,
-                        70,
-                        71,
+                        "JAMUNAHI",
+                        "NON-ODF",
+                        "36%",
+                        "80%",
+                        "53%",
+                        "54%",
+                        "93%",
                         "No",
                         "No",
-                        "No"
+                        "-"
                     ]
                 ],
-                "block": "MALIHABAD"
+                "block": "MUJEHANA"
             },
-            "ODFVillages": 1,
+            "ODFVillages": 0,
             "Villages": 1,
-            "id": 81
+            "id": 82
+        },
+        {
+            "Graph1": {
+                "data": [
+                    {
+                        "name": "No",
+                        "value": 23.0
+                    },
+                    {
+                        "name": "Yes",
+                        "value": 77.0
+                    }
+                ],
+                "legends": [
+                    "Yes",
+                    "No"
+                ],
+                "block": "SIRATHU",
+                "name": "IHHL Coverage"
+            },
+            "Graph2": {
+                "data": 14.29,
+                "legends": "",
+                "block": "SIRATHU",
+                "name": "Villages Covered"
+            },
+            "Graph3": {
+                "data": [
+                    {
+                        "name": "Yes",
+                        "value": 84.0
+                    },
+                    {
+                        "name": "No",
+                        "value": 16.0
+                    }
+                ],
+                "legends": [
+                    "Yes",
+                    "No"
+                ],
+                "block": "SIRATHU",
+                "name": "Overall Toilet Usage"
+            },
+            "Graph4": {
+                "data": [
+                    {
+                        "name": "Safe Disposal",
+                        "value": 100.0
+                    },
+                    {
+                        "name": "Unsafe Disposal",
+                        "value": 0.0
+                    }
+                ],
+                "legends": [
+                    "Safe Disposal",
+                    "Unsafe Disposal"
+                ],
+                "block": "SIRATHU",
+                "name": "Type of Disposal"
+            },
+            "Graph5": {
+                "data": [
+                    {
+                        "name": "Yes",
+                        "value": 50.0
+                    },
+                    {
+                        "name": "No",
+                        "value": 50.0
+                    }
+                ],
+                "legends": [
+                    "Yes",
+                    "No"
+                ],
+                "block": "SIRATHU",
+                "name": "Incidences of open defecation"
+            },
+            "Graph6": {
+                "data": [
+                    {
+                        "name": "Yes",
+                        "value": 21.0
+                    },
+                    {
+                        "name": "No",
+                        "value": 79.0
+                    }
+                ],
+                "legends": [
+                    "Yes",
+                    "No"
+                ],
+                "block": "SIRATHU",
+                "name": "Availability of Water"
+            },
+            "Graph7": {
+                "data": [
+                    {
+                        "name": "Fully Functional/Ready",
+                        "value": 31.0
+                    },
+                    {
+                        "name": "Sub-structure Built",
+                        "value": 27.0
+                    },
+                    {
+                        "name": "Yet to be Constructed",
+                        "value": 37.0
+                    },
+                    {
+                        "name": "Almost Ready/Super Structure Built",
+                        "value": 5.0
+                    }
+                ],
+                "legends": [
+                    "Fully Functional/Ready",
+                    "Yet to be Constructed",
+                    "Sub-structure Built",
+                    "Almost Ready/Super Structure Built"
+                ],
+                "block": "SIRATHU",
+                "name": "Over-reporting of SBM Toilets"
+            },
+            "Graph8": {
+                "data": [
+                    {
+                        "name": "Pan Integrity",
+                        "value": 47.0
+                    },
+                    {
+                        "name": "Junction Chamber",
+                        "value": 20.0
+                    },
+                    {
+                        "name": "Disposal Structure",
+                        "value": 45.0
+                    },
+                    {
+                        "name": "Toilet Super Structure",
+                        "value": 60.0
+                    },
+                    {
+                        "name": "Water Storage",
+                        "value": 17.0
+                    },
+                    {
+                        "name": "Cleanliness and Hygiene",
+                        "value": 98.0
+                    }
+                ],
+                "legends": [
+                    "Pan Integrity",
+                    "Junction Chamber",
+                    "Disposal Structure",
+                    "Toilet Super Structure",
+                    "Water Storage",
+                    "Cleanliness and Hygiene"
+                ],
+                "block": "SIRATHU",
+                "name": "Quality of SBM Toilets"
+            },
+            "Graph9": {
+                "block": "SIRATHU"
+            },
+            "Graph10": {
+                "data": [
+                    {
+                        "name": "Yes",
+                        "value": 0.0
+                    },
+                    {
+                        "name": "No",
+                        "value": 100.0
+                    }
+                ],
+                "legends": [
+                    "Yes",
+                    "No"
+                ],
+                "block": "SIRATHU",
+                "name": "Availablity of Community/Public Toilet"
+            },
+            "Graph11": {
+                "data": [
+                    {
+                        "name": "Yes",
+                        "value": 0.0
+                    },
+                    {
+                        "name": "No",
+                        "value": 0.0
+                    }
+                ],
+                "legends": [
+                    "Yes",
+                    "No"
+                ],
+                "block": "SIRATHU",
+                "name": "Functionality of Community/Public Toilet"
+            },
+            "Graph12": {
+                "data": [
+                    {
+                        "name": "Yes",
+                        "value": 0
+                    },
+                    {
+                        "name": "No",
+                        "value": 0
+                    }
+                ],
+                "name": "IHHL Coverage",
+                "block": "SIRATHU",
+                "legends": [
+                    "Yes",
+                    "No"
+                ]
+            },
+            "Graph13": {
+                "data3_count": 0,
+                "data6_count": 0,
+                "data1_count": 4,
+                "data7_count": 0,
+                "data4_count": 0,
+                "data3": "Villages with Incidences of open defecation",
+                "data5_count": 0,
+                "data5": "Access to Toilet in Schools",
+                "data4": "Schools Covered",
+                "data7": "Access to Toilet in Anganwadi",
+                "data6": "Anganwadi covered",
+                "data1": "Target Villages",
+                "data2_count": 0,
+                "block": "SIRATHU",
+                "data2": "Villages Covered"
+            },
+            "Graph14": {
+                "data": [
+                    {
+                        "name": "Yes",
+                        "value": 0
+                    },
+                    {
+                        "name": "No",
+                        "value": 0
+                    }
+                ],
+                "legends": [
+                    "Yes",
+                    "No"
+                ],
+                "block": "SIRATHU",
+                "name": "Overall Toilet Usage"
+            },
+            "Graph15": {
+                "headers": [
+                    "Sno.",
+                    "Village Name",
+                    "Category",
+                    "IHHL Toilet coverage",
+                    "Overall toilet usage",
+                    "Over-reporting of SBM Toilets",
+                    "Construction Quality of SBM Toilets",
+                    "Safe disposal",
+                    "Incidence of open defection",
+                    "Availability of CT/PT",
+                    "Functionality of CT/PT"
+                ],
+                "rowData": [
+                    [
+                        1,
+                        "KHORANV",
+                        "NON-ODF",
+                        "27%",
+                        "81%",
+                        "80%",
+                        "69%",
+                        "100%",
+                        "Yes",
+                        "No",
+                        "-"
+                    ],
+                    [
+                        2,
+                        "NINDHUWAWAN",
+                        "NON-ODF",
+                        "18%",
+                        "86%",
+                        "59%",
+                        "80%",
+                        "100%",
+                        "No",
+                        "No",
+                        "-"
+                    ]
+                ],
+                "block": "SIRATHU"
+            },
+            "ODFVillages": 0,
+            "Villages": 1,
+            "id": 83
         }
     ]
 }
